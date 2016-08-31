@@ -22,6 +22,6 @@ lib_scripts: [
 
 ### What is this repository for? ###
 
-* Base Grunt, Bower, SASS, NPM setup
+* Base Grunt, Bower, SASS, NormalizeCSS, FlexboxGrid, jQuery
 * Version 0.0.1
 
