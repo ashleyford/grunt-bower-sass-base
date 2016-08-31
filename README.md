@@ -1,4 +1,4 @@
-# Base Template #
+# Base Grunt / Bower / SASS Setup #
 
 Simple setup that uses Bower and Grunt to concat and minify SASS and JS files. Work out of the _dev folder adding your JS to the scripts folder and SASS to the style folder.
 
