@@ -24,4 +24,3 @@ lib_scripts: [
 
 * Base Grunt, Bower, SASS, NormalizeCSS, FlexboxGrid, jQuery
 * Version 0.0.1
-

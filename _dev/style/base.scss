@@ -4,17 +4,66 @@
 
 body{
 	font-family: 'Roboto', sans-serif;
+	color:#fff;
 	margin:0;
 	padding:0;
+	background:#072441;
 }
+
+// Custom flexboxgrid no gutters
+
+[class*='col-'],
+[class^='col-'] {
+   img {
+      max-width: 100%;
+      height: auto;
+   }
+}
+
+.row--no-gutter {
+   margin-left: 0;
+   margin-right: 0;
+}
+
+.col--no-gutter {
+   padding-left: 0;
+   padding-right: 0;
+}
+
+// Box Styles
 
 .boxes{
 
 	.box-row{
 		background:blue;
 		padding:20px;
+		min-height:300px;
 		color:#fff;
 		margin-bottom:15px;
+	}
+
+	.box-row.red{
+		background:#E15959;
+	}
+
+	.box-row.orange{
+		background:#DD782F;
+	}
+	
+	.box-row.green{
+		background:#13D56E;
+	}
+
+	.box-row.blue{
+		background:#1FB7EB;
+	}
+
+	.box-row.purple{
+		background:#B34FE0;
+	}
+
+	.box-row.pink{
+		background:#DC3FAC;
 	}
 	
 }
