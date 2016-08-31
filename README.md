@@ -9,6 +9,8 @@ This simple setup uses Bower and Grunt to concat and minify SASS and JS files.
 
 ### How do I get set up? ###
 
-* $ npm install
-* $ bower install
-* $ grunt
+```shell
+$ npm install
+$ bower install
+$ grunt
+```
