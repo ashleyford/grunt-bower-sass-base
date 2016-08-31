@@ -1,6 +1,6 @@
 # Base Template #
 
-This simple setup uses Bower and Grunt to concat and minify CSS and JS files.
+This simple setup uses Bower and Grunt to concat and minify SASS and JS files.
 
 ### What is this repository for? ###
 
